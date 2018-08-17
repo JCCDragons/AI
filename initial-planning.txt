@@ -1,0 +1,36 @@
+public class Main {
+ 
+  public static void main(String[] args) {
+    
+  }
+  
+}
+
+
+
+
+public class BotMain {
+  
+  Arraylist<String> list_greetings = new ArrayList<String>();
+  
+}
+
+public void learnNewThing() {
+  write to correct file e.g. greetings.txt
+  with each greeting on a separate line
+}
+
+public void listenToSomeone() {
+  voice to text
+  analyse text
+}
+
+public void analyseText(text to analyse) {
+  subject, verb, object [] verb, adjective, adverb, conjnction, pronoun, noun, determiner, exclamation, preposition
+  
+    if newword {
+    	scanner sc = new scanner(system.in);
+        print(what's the word type)
+        add to correct word type array list;
+              }
+            run through if/else stack - test for various words e.g. calendar, help, order, etc
